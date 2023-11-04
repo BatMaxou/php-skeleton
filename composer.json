@@ -1,0 +1,14 @@
+{
+    "name": "<project>",
+    "type": "project",
+    "description": "<description>",
+    "authors": [
+        {
+            "name": "<your name>",
+            "email": "<your email>"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
